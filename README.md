@@ -1,15 +1,12 @@
-# Tiny Flight Simulator
-> **Author** : Badr TAJINI \
-> **Ecole d’ingénieur** : ESIEE-IT \
+# AFRIKA
+> **Author** : ISMAILA SYLLA, AÏSSATOU CAMARA, ALI BENMERAD \
+> **Ecole d’ingénieur** : ESIEE-PARIS \
 > **Année Universitaire** : 2023-2024
 
 
 # Summary : 
 
-Project Tiny Flight Simulator's objective is to create a user-friendly, small-scale flight simulation experience that offers a realistic and immersive flight environment, despite its tiny scope. The project is designed to provide users with a simplified yet authentic flight experience, aimed at both beginners and aviation enthusiasts. 
-
-Through the simulator, users will be able to learn the basics of flight mechanics, get hands-on experience of flying different aircraft, and enjoy a visually appealing simulation environment.
-
+Basée sur le projet Tiny Flight Simulator fourni par Monsieur BADR TAJINI, professeur du cours Unity Avancée, notre projet consiste à representer le continent Africain de façon simpliste en utilisation les différentes techniques de génération procédurales vues en cours.
 # Prototype 
 ![Clouds](https://i.imgur.com/3bXb0EB.jpg)
 
