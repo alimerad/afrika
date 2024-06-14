@@ -27,10 +27,10 @@ public class PlaneAnimation : MonoBehaviour {
     float smoothedYaw;
     float smoothYawV;
 
-    MFlight.Demo.Plane plane;
+    Plane plane;
 
     void Start () {
-        plane = GetComponent<MFlight.Demo.Plane> ();
+        plane = GetComponent<Plane> ();
     }
 
     void Update () {

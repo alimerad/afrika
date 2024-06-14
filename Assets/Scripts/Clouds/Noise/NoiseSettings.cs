@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class NoiseSettings : ScriptableObject {
+public abstract class NoiseCloudSettings : ScriptableObject {
 
     public event System.Action onValueChanged;
 

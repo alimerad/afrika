@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu]
-public class SimplexNoiseSettings : NoiseSettings {
+public class SimplexNoiseSettings : NoiseCloudSettings {
 
     public int seed;
     [Range(1,6)]
